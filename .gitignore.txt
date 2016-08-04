@@ -1,0 +1,4 @@
+*.firebase
+*.database
+*.firebaserc
+*.public
