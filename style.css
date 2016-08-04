@@ -4,7 +4,7 @@ body{
 
 #head{
     height: 4em ;
-    width: 80em;
+    width: 70em;
     background-color:lightgray;
 }
 
@@ -120,6 +120,4 @@ input:hover{
 #inbox{
       border-bottom: 2px solid black;
       background-color: white;
-      
- 
-  }
+   }
